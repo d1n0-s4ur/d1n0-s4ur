@@ -1,5 +1,5 @@
 <p align="center">
-<i>dino!!</i>
+<u><i>dino!!</i></u>
 
 
 <p align="center">
@@ -19,4 +19,4 @@
 <br> 
 <br> 
 <p align="center">
-<tt>art by @小涯不吃鱼 on weibo <3</tt>
+<tt><i>art by @小涯不吃鱼 on weibo <3</i></tt>
