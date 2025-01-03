@@ -1,5 +1,5 @@
 <p align="center">
-<u><b>dino!!</b></u>
+<i><b>dino!!</b></i>
 
 
 <p align="center">
