@@ -1,6 +1,15 @@
 <p align="center">
 dino !!
 
+
+
+
+
+
+
+
+
+
 <p align="center">
 she/they : minor ☆
 <p align="center">
