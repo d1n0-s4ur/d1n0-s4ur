@@ -2,7 +2,7 @@
 </u>dino!!
 
 <p align="center">
-<img src="e35957e6327b7f86bce6ef7ab963bc24-removebg-preview_optimized.png" alt="Gilyoung">
+<img src="gilyoungsticker.png" alt="Gilyoung">
 
 <p align="center">
 she/they : minor ☆
