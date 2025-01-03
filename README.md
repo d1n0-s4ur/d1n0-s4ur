@@ -9,8 +9,6 @@
 
 
 <p align="center">
-she/they : minor ☆
+<tt>she/they : minor ☆</tt> 
 <p align="center">
-♫︎ dino/kae/zoya
-<p align="center">
-pls int always !! i love making new friends ^_^ ꒰ offtab or afk a lot of the time , w2i mostly ~
+<tt>pls int ! i love making new friends ^_^ ꒰ offtab or afk a lot of the time , w2i mostly ~</tt>
