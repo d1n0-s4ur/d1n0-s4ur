@@ -1,4 +1,3 @@
-<font color="607562"><i>dino!!</i></font> 
 <p align="center">
 <i>dino!!</i>
 
