@@ -14,3 +14,10 @@
 <tt>♫︎ <i><b>dino</b></i>/<i>kae</i>/zoya</tt>
 <p align="center">
 <tt>↻ pls int ! i love making new friends ^_^ ꒰ <i>offtab or afk a lot of the time , w2i mostly ~</i> ↺</tt>
+
+
+
+
+
+<font size="3"></font> 
+art by @小涯不吃鱼 on weibo <3
