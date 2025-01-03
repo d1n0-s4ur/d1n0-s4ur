@@ -19,5 +19,5 @@
 
 
 
-<font size="3"></font> 
-art by @小涯不吃鱼 on weibo <3
+<p align="center">
+<font size="3">art by @小涯不吃鱼 on weibo <3</font>
