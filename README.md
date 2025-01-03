@@ -1,5 +1,7 @@
+<font color="607562"></font> 
+
 <p align="center">
-</u>dino!!
+<i>dino!!</i>
 
 
 <p align="center">
@@ -11,4 +13,6 @@
 <p align="center">
 <tt>she/they : minor ☆</tt> 
 <p align="center">
-<tt>pls int ! i love making new friends ^_^ ꒰ offtab or afk a lot of the time , w2i mostly ~</tt>
+<tt>♫︎ <i><b>dino</b></i>/<i>kae</i>/zoya</tt>
+<p align="center">
+<tt>pls int ! i love making new friends ^_^ ꒰ <i>offtab or afk a lot of the time</i> , w2i mostly ~</tt>
