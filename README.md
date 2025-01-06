@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=516253&style=plastic)
+<br>
+<br>
 <p align="center">
 <i><b>dino!!</b></i>
 
