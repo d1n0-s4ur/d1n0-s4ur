@@ -1,6 +1,6 @@
-<p align="center">
-  
-![](https://komarev.com/ghpvc/?username=d1n0-s4ur&color=5C6C5D)
+<p align="center"> 
+
+![](https://komarev.com/ghpvc/?username=d1n0-s4ur&color=5C6C5D) </p>
 <p align="center">
 help me whys it at the side T_T
 <br>
