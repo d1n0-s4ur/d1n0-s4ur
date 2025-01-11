@@ -15,7 +15,7 @@
 
 
 <p align="center">
-<tt>she/they : minor ☆</tt> 
+<tt>she/they : minor : OCD ☆</tt> 
 <p align="center">
 <tt>♫︎ <i><b>dino</b></i>/<i>kae</i>/zoya</tt>
 <p align="center">
