@@ -1,6 +1,5 @@
-　<p align="center">![](https://komarev.com/ghpvc/?username=d1n0s4ur&label★&color=5C6C5D)</p>
-
-
+　<p align="center">![](https://komarev.com/ghpvc/?username=d1n0s4ur&label=★&color=5C6C5D)</p>
+<p align="center"><I> UHH IT RESET 😭</I></p>
 <br>
 <br>
 <p align="center">
